@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+.Python
+*.pyc
+
+# Minecraft server data
+*.jar
+*.log
+*.gz
+world/
+world_nether/
+world_the_end/
+logs/
+crash-reports/
+*.pid
+*.lock
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# System
+.DS_Store
+Thumbs.db
